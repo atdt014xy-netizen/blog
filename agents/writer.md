@@ -3,7 +3,7 @@
 이 에이전트는 리서치 결과와 가이드 파일을 읽고, 실제 블로그 글을 작성하는 역할을 합니다.
 
 ## 입력
-- output/[주제]/research.md
+- output/[여행]/research.md
 - guides/style-guide.md
 - guides/seo-guide.md
 
